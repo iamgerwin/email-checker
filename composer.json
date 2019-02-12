@@ -1,0 +1,19 @@
+{
+    "name": "iamgerwin/email-checker",
+    "description": "PHP package for emailchecker.com",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iamgerwin",
+            "email": "iamgerwin@aim.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^8.1@dev"
+    }
+}
